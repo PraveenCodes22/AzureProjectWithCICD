@@ -19,3 +19,13 @@ Process:
 
 Output:
 - Parquet files are created in the Bronze container
+
+Pipeline:
+![Pipeline](../screenshots/stage1/pipeline.png)
+
+Execution:
+![Success](../screenshots/stage1/success.png)
+
+Output:
+![Bronze](../screenshots/stage1/bronze_output.png)
+
