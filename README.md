@@ -11,7 +11,7 @@ using a Bronze–Silver–Gold architecture on Azure.
 ## Technologies Used
 - Azure Data Factory
 - Azure Data Lake Gen2
-- Azure Devops
+- Azure DevOps
 - Azure Databricks
 - Delta Lake
 - PySpark
