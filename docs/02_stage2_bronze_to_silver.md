@@ -36,3 +36,15 @@ Automation:
 Output:
 - Cleaned and transformed data is stored in the Silver layer
 - Data is available as Delta tables for downstream processing
+
+Silver Notebook (Representative):
+
+Read from Bronze:
+![Read Bronze](../screenshots/stage2/silver_read.png)
+
+Transform Logic:
+![Transform](../screenshots/stage2/silver_transform.png)
+
+Write to Silver (Delta):
+![Write Silver](../screenshots/stage2/silver_write.png)
+
